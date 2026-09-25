@@ -1,0 +1,6 @@
+{
+  "name": "Dincharya – Smart Daily Routine Planner",
+  "description": "Dynamic daily routine and timetable planner for students that automatically adjusts flexible study, coding, and rest slots around fixed commitments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
